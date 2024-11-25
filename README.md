@@ -1,1 +1,1 @@
-The code should work... but sometimes it enjoys being mysterious >.<
+El código debería funcionar... pero a veces le gusta ser misterioso. xd
