@@ -1,1 +1,1 @@
-ese código devería de funcionar 
+Ese código debería de funcionar 
